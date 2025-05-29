@@ -2,4 +2,4 @@
 
 This is the calculator that looks like iPhone
 
-Able to + - x /
+Able to +, -, x, /, , +-
